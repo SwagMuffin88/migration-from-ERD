@@ -1,0 +1,6 @@
+@migration_from_ERD_HostAddress = http://localhost:5067
+
+GET {{migration_from_ERD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

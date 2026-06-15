@@ -1,0 +1,8 @@
+# IDE metadata
+.idea/
+.vs/
+
+# .NET build and test output
+**/bin/
+**/obj/
+TestResults/
